@@ -1,35 +1,29 @@
-**IoT August Smart Lock Case Study**
+# IoT August Smart Lock Case Study
 
-This repository contains an IoT case study on the August Wi-Fi Smart Lock. The project explores the device’s embedded system design, communication protocols, power management, data analysis, and security mechanisms.
+This repository contains a technical case study on the August Wi-Fi Smart Lock. The project examines the device as an Internet of Things solution, with a focus on communication protocols, embedded system design, power management, and security.
 
-**Key Topics**
+## Project Overview
+The case study explores how the August Wi-Fi Smart Lock uses Bluetooth Low Energy and Wi-Fi to support both local and remote control. It also reviews the role of the embedded microcontroller, keypad and fingerprint integration, data analysis capabilities, and security challenges within a smart home environment.
 
-Embedded system architecture
+## Technologies and Concepts
+- Internet of Things
+- Embedded Systems
+- Bluetooth Low Energy
+- Wi-Fi Communication
+- Smart Home Security
+- Data Analysis in IoT
+- Power Management
 
-Bluetooth Low Energy and Wi-Fi communication
+## Key Topics Covered
+- Embedded hardware and software architecture
+- BLE and Wi-Fi communication trade-offs
+- Smart lock applications in homes and other environments
+- Security challenges and solutions
+- Battery and power management considerations
+- Future improvements in IoT connectivity
 
-Smart lock data analysis
+## Files Included
+- `COMM018 IoT Coursework-24014410.pdf` – coursework report
 
-Power management strategies
-
-Security challenges and solutions
-
-Smart home and access control applications
-
-**Technologies and Concepts**
-
-Internet of Things
-
-Smart Home Systems
-
-BLE
-
-Wi-Fi
-
-Security and Encryption
-
-Embedded Systems
-
-**Files Included**
-
-COMM018 IoT Coursework-24014410.pdf
+## Purpose
+This case study demonstrates understanding of IoT system design, wireless communication, device security, and the practical analysis of a modern smart home product.
